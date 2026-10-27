@@ -1,0 +1,44 @@
+[
+  {
+    "Author": "1Stalk",
+    "Name": "XIVcardsharp",
+    "Punchline": "When thinking through Triple Triad is too much effort.",
+    "Description": "High-performance Triple Triad solver with Adversarial Minimax, PIMC imperfect information hand sampling, and Open Tournament Draft evaluator.",
+    "InternalName": "XIVcardsharp",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/1Stalk/XIVcardsharp",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://github.com/1Stalk/XIVcardsharp/releases/latest/download/XIVcardsharp.zip",
+    "DownloadLinkUpdate": "https://github.com/1Stalk/XIVcardsharp/releases/latest/download/XIVcardsharp.zip",
+    "IconUrl": "https://raw.githubusercontent.com/1Stalk/XIVcardsharp/master/images/icon.png",
+    "Tags": [
+      "triple triad",
+      "solver",
+      "open tournament",
+      "pvp",
+      "gold saucer"
+    ]
+  },
+  {
+    "Author": "Taurenkey, Kagekazu, Knightmore, 1Stalk",
+    "Name": "Saucy (Cardsharp)",
+    "Punchline": "When working for MGP is too much effort.",
+    "Description": "Automates certain Gold Saucer mini-games. Enhanced with XIVcardsharp Triple Triad AI engine.",
+    "InternalName": "Saucy",
+    "AssemblyVersion": "2.1.2.5",
+    "RepoUrl": "https://github.com/1Stalk/Saucy",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://github.com/1Stalk/Saucy/releases/latest/download/Saucy.zip",
+    "DownloadLinkUpdate": "https://github.com/1Stalk/Saucy/releases/latest/download/Saucy.zip",
+    "IconUrl": "https://raw.githubusercontent.com/1Stalk/Saucy/master/images/icon.png",
+    "Tags": [
+      "gold saucer",
+      "mgp",
+      "automation",
+      "triple triad",
+      "cardsharp"
+    ]
+  }
+]
