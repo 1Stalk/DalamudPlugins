@@ -23,5 +23,6 @@ Custom plugin repository for FINAL FANTASY XIV (Dalamud).
 
 | Plugin | Description | Source |
 | :--- | :--- | :--- |
+| **AutoKeyboundBrawler** | Automated assistant and typing solver for Keybound Brawler | [1Stalk/AutoKeyboundBrawler](https://github.com/1Stalk/AutoKeyboundBrawler) |
 | **XIVcardsharp** | High-performance Triple Triad solver & Open Tournament draft AI | [1Stalk/XIVcardsharp](https://github.com/1Stalk/XIVcardsharp) |
 | **SaucyCardsharp** | Gold Saucer automation enhanced with XIVcardsharp engine | [1Stalk/SaucyCardsharp](https://github.com/1Stalk/SaucyCardsharp) |
